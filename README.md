@@ -5,10 +5,3 @@ Wikidata的源数据的格式为json格式
 email:holdbalance@foxmail.com
 
 
-
-项目实施工具
-  OS: Win 10；
-	IDE: MyEclipse 2016CI
-	Database : MySQL 5.6
-	Web Service : Tomcat 8.0
-
